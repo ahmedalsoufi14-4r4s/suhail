@@ -9,7 +9,7 @@
 - `links.js` الروابط والرقم
 - `photo.webp` صورة الخلفية
 - `qr/` ملفات الـ QR والبطاقة للطباعة (A6)
-- `logo/` شعار سأ (SVG و PNG بخلفية شفافة)
+- `logo/` شعار SA (SVG و PNG بخلفية شفافة)
 - `fonts/` خط المراعي
 
 ## تعديل الروابط
@@ -39,7 +39,7 @@
 التعديل يظهر في الصفحة خلال دقيقة أو دقيقتين، والـ QR ثابت لأنه يحمل رابط الصفحة فقط.
 
 ## الـ QR
-- `suhail-qr.png` و `suhail-qr.svg`: الـ QR الملوّن وفي نصه شعار سأ
+- `suhail-qr.png` و `suhail-qr.svg`: الـ QR الملوّن وفي نصه شعار SA
 - `suhail-qr-plain.png` و `suhail-qr-plain.svg`: QR عادي
 - `suhail-qr-card.png`: بطاقة A6 للطباعة بدقة 300
 
